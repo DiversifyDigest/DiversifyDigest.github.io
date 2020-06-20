@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>/author/</link>
-      <atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <title>Diversify</title>
+    <link>DiversifyDigest.github.io/author/</link>
+      <atom:link href="DiversifyDigest.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+    <description>Diversify</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alliance SciComm &amp; Consulting, LLC 2020</copyright>
     <image>
-      <url>/author/avatar_hud5aa5bddfbab4ab9449ad1086403d37f_1441093_270x270_fill_q90_lanczos_center.jpg</url>
-      <title>Academic</title>
-      <link>/author/</link>
+      <url>/DiversifyDigest.github.io/author/avatar_hud5aa5bddfbab4ab9449ad1086403d37f_1441093_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Diversify</title>
+      <link>DiversifyDigest.github.io/author/</link>
     </image>
     
   </channel>
