@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Diversify</title>
-    <link>DiversifyDigest.github.io/authors/</link>
-      <atom:link href="DiversifyDigest.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://DiversifyDigest.github.io/authors/</link>
+      <atom:link href="https://DiversifyDigest.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alliance SciComm &amp; Consulting, LLC 2020</copyright>
     <image>
-      <url>/DiversifyDigest.github.io/images/icon_hu243e51676e8edaf5fe2853297d37cbf9_10781_512x512_fill_lanczos_center_2.png</url>
+      <url>https://DiversifyDigest.github.io/images/icon_hu243e51676e8edaf5fe2853297d37cbf9_10781_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>DiversifyDigest.github.io/authors/</link>
+      <link>https://DiversifyDigest.github.io/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>DiversifyDigest.github.io/author/</link>
+      <link>https://DiversifyDigest.github.io/author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>DiversifyDigest.github.io/author/</guid>
+      <guid>https://DiversifyDigest.github.io/author/</guid>
       <description>&lt;p&gt;The Diversify Digest is sponsored and curated by Alliance SciComm &amp;amp; Consulting (ASCC). ASCC was founded in 2019 by Dr. Ada Hagan, a microbiologist with a passion for making science accessible. Dr. Hagan seeks to use her strong background in communications and higher education to help make sciencific concepts more easily understood and make the academy more inclusive to future scientists from all backgrounds. Her writing and research has been featured by 
 &lt;a href=&#34;https://www.sciencemag.org/careers/2019/11/departmental-seminar-speakers-should-better-reflect-trainee-diversity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Careers&lt;/a&gt;, 
 &lt;a href=&#34;https://www.the-scientist.com/news-opinion/qa--myth-debunkers-take-aim-at-microbiology-lore-66036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Scientist&lt;/a&gt;, 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Diversify</title>
-    <link>DiversifyDigest.github.io/publication_types/</link>
-      <atom:link href="DiversifyDigest.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://DiversifyDigest.github.io/publication_types/</link>
+      <atom:link href="https://DiversifyDigest.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alliance SciComm &amp; Consulting, LLC 2020</copyright><lastBuildDate>Thu, 30 Jul 2020 18:58:52 -0400</lastBuildDate>
     <image>
-      <url>/DiversifyDigest.github.io/images/icon_hu243e51676e8edaf5fe2853297d37cbf9_10781_512x512_fill_lanczos_center_2.png</url>
+      <url>https://DiversifyDigest.github.io/images/icon_hu243e51676e8edaf5fe2853297d37cbf9_10781_512x512_fill_lanczos_center_2.png</url>
       <title>Publication_types</title>
-      <link>DiversifyDigest.github.io/publication_types/</link>
+      <link>https://DiversifyDigest.github.io/publication_types/</link>
     </image>
     
     <item>
       <title>0</title>
-      <link>DiversifyDigest.github.io/publication-type/0/</link>
+      <link>https://DiversifyDigest.github.io/publication-type/0/</link>
       <pubDate>Thu, 30 Jul 2020 18:58:52 -0400</pubDate>
-      <guid>DiversifyDigest.github.io/publication-type/0/</guid>
+      <guid>https://DiversifyDigest.github.io/publication-type/0/</guid>
       <description></description>
     </item>
     
