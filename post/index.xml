@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog | Diversify</title>
+    <title>Diversify Digest Blog | Diversify Digest</title>
     <link>https://DiversifyDigest.github.io/post/</link>
       <atom:link href="https://DiversifyDigest.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Blog</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alliance SciComm &amp; Consulting, LLC 2020</copyright>
+    <description>Diversify Digest Blog</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Alliance SciComm &amp; Consulting, LLC 2021</copyright>
     <image>
-      <url>https://DiversifyDigest.github.io/images/icon_hu243e51676e8edaf5fe2853297d37cbf9_10781_512x512_fill_lanczos_center_2.png</url>
-      <title>Blog</title>
+      <url>https://DiversifyDigest.github.io/media/icon_hu243e51676e8edaf5fe2853297d37cbf9_10781_512x512_fill_lanczos_center_2.png</url>
+      <title>Diversify Digest Blog</title>
       <link>https://DiversifyDigest.github.io/post/</link>
     </image>
     

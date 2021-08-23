@@ -1,94 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://DiversifyDigest.github.io/publication/</loc>
-    <lastmod>2020-09-15T20:57:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiversifyDigest.github.io/</loc>
-    <lastmod>2020-09-15T20:57:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiversifyDigest.github.io/publication/digest_2020_09_15/</loc>
-    <lastmod>2020-09-15T20:57:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiversifyDigest.github.io/publication/digest_2020_09_05/</loc>
-    <lastmod>2020-09-05T15:20:36-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiversifyDigest.github.io/publication/digest_2020_08_24/</loc>
-    <lastmod>2020-08-24T09:27:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiversifyDigest.github.io/publication/digest_2020_08_17/</loc>
-    <lastmod>2020-08-17T08:47:44-04:00</lastmod>
-  </url>
-  
-  <url>
+    <loc>https://DiversifyDigest.github.io/admin/</loc>
+  </url><url>
     <loc>https://DiversifyDigest.github.io/publication-type/0/</loc>
-    <lastmod>2020-08-07T14:43:17-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiversifyDigest.github.io/publication/digest_2020_08_07/</loc>
-    <lastmod>2020-08-07T14:43:17-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiversifyDigest.github.io/publication_types/</loc>
-    <lastmod>2020-08-07T14:43:17-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiversifyDigest.github.io/publication/digest_2020_07_30/</loc>
-    <lastmod>2020-07-30T18:58:52-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiversifyDigest.github.io/publication/digest_2020-07-17/</loc>
-    <lastmod>2020-07-09T13:53:31-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiversifyDigest.github.io/publication/digest_2020-07-19/</loc>
-    <lastmod>2020-07-09T13:53:31-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiversifyDigest.github.io/publication/digest_2020-06-19/</loc>
-    <lastmod>2020-06-19T11:51:35-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiversifyDigest.github.io/author/</loc>
-  </url>
-  
-  <url>
-    <loc>https://DiversifyDigest.github.io/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://DiversifyDigest.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://DiversifyDigest.github.io/publication-type/1/</loc>
+  </url><url>
+    <loc>https://DiversifyDigest.github.io/digest/digest_2020_08_17/</loc>
+  </url><url>
+    <loc>https://DiversifyDigest.github.io/digest/digest_2020_08_24/</loc>
+  </url><url>
+    <loc>https://DiversifyDigest.github.io/digest/digest_2020_08_07/</loc>
+  </url><url>
     <loc>https://DiversifyDigest.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://DiversifyDigest.github.io/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://DiversifyDigest.github.io/</loc>
+  </url><url>
+    <loc>https://DiversifyDigest.github.io/digest/</loc>
+  </url><url>
+    <loc>https://DiversifyDigest.github.io/post/</loc>
+  </url><url>
+    <loc>https://DiversifyDigest.github.io/digest/digest_2020-07-17/</loc>
+  </url><url>
+    <loc>https://DiversifyDigest.github.io/digest/digest_2020_07_30/</loc>
+  </url><url>
+    <loc>https://DiversifyDigest.github.io/digest/digest_2020-07-19/</loc>
+  </url><url>
+    <loc>https://DiversifyDigest.github.io/digest/digest_2020-06-19/</loc>
+  </url><url>
+    <loc>https://DiversifyDigest.github.io/publication_types/</loc>
+  </url><url>
+    <loc>https://DiversifyDigest.github.io/digest/digest_2020_09_15/</loc>
+  </url><url>
+    <loc>https://DiversifyDigest.github.io/digest/digest_2020_09_05/</loc>
+  </url><url>
     <loc>https://DiversifyDigest.github.io/tags/</loc>
   </url>
-  
 </urlset>
