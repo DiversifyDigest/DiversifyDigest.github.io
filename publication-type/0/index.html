@@ -256,6 +256,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5QFLC6C13L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-5QFLC6C13L', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 <script>
   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -313,6 +352,8 @@
   <meta property="og:description" content="Weekly digest with all the latest research on diversity, equity, inclusion, and justice." /><meta property="og:image" content="https://DiversifyDigest.github.io/media/icon_hu243e51676e8edaf5fe2853297d37cbf9_10781_512x512_fill_lanczos_center_2.png" />
     <meta property="twitter:image" content="https://DiversifyDigest.github.io/media/icon_hu243e51676e8edaf5fe2853297d37cbf9_10781_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
+    
+      <meta property="og:updated_time" content="2021-09-13T12:47:17-04:00" />
     
   
 
@@ -649,6 +690,84 @@
   
 
   
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/digest/digest_/" >Digest_</a>
+    </div>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Sep 13, 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
   
     
       
