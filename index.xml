@@ -5,12 +5,20 @@
     <link>https://DiversifyDigest.github.io/</link>
       <atom:link href="https://DiversifyDigest.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Diversify Digest</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Alliance SciComm &amp; Consulting, LLC 2021</copyright><lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Alliance SciComm &amp; Consulting, LLC 2021</copyright><lastBuildDate>Thu, 11 Nov 2021 11:07:14 -0500</lastBuildDate>
     <image>
       <url>https://DiversifyDigest.github.io/media/icon_hu243e51676e8edaf5fe2853297d37cbf9_10781_512x512_fill_lanczos_center_3.png</url>
       <title>Diversify Digest</title>
       <link>https://DiversifyDigest.github.io/</link>
     </image>
+    
+    <item>
+      <title>Digest_2021 11 11</title>
+      <link>https://DiversifyDigest.github.io/digest/digest_2021-11-11/</link>
+      <pubDate>Thu, 11 Nov 2021 11:07:14 -0500</pubDate>
+      <guid>https://DiversifyDigest.github.io/digest/digest_2021-11-11/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Nov 5 Digest</title>
